@@ -1,0 +1,170 @@
+\documentclass[11pt,letter,sans]{moderncv}
+\usepackage[utf8]{inputenc}
+\DeclareOldFontCommand{\rm}{\normalfont\rmfamily}{\mathrm}
+\DeclareOldFontCommand{\sf}{\normalfont\sffamily}{\mathsf}
+\DeclareOldFontCommand{\tt}{\normalfont\ttfamily}{\mathtt}
+\DeclareOldFontCommand{\bf}{\normalfont\bfseries}{\mathbf}
+\DeclareOldFontCommand{\it}{\normalfont\itshape}{\mathit}
+\DeclareOldFontCommand{\sl}{\normalfont\slshape}{\@nomath\sl}
+\DeclareOldFontCommand{\sc}{\normalfont\scshape}{\@nomath\sc}
+\DeclareRobustCommand*\cal{\@fontswitch\relax\mathcal}
+\DeclareRobustCommand*\mit{\@fontswitch\relax\mathnormal}
+
+
+\moderncvstyle{banking}
+\moderncvcolor{black}
+\definecolor{color2}{rgb}{0.25,0.25,0.25}
+%\renewcommand{\familydefault}{\sfdefault}
+
+\usepackage[top=1in, bottom=1in, left=1.1in, right=1.1in]{geometry}
+\setlength{\hintscolumnwidth}{3cm}
+%\setlength{\makecvtitlenamewidth}{10cm}
+
+\frenchspacing
+
+\usepackage[backend=biber,style=ieee,defernumbers=true]{biblatex}
+
+% Make the author's name bold in publications.
+% \DeclareNameFormat{author}{%
+%  \ifthenelse{\equal{#1}{Reigl}}%
+%    {\textbf{\ifblank{#4}{}{#4\space}#1}}%
+%    {\ifblank{#4}{}{#4\space}#1}%
+%  \ifthenelse{\value{listcount}=1 \AND \value{liststop}=2}%
+%    {\space and\space}
+%    {\ifthenelse{\value{listcount}<\value{liststop}}%
+%      {\addcomma\space}
+%      {}
+%    }
+% }
+
+\usepackage{lastpage}
+\cfoot{\addressfont\textcolor{gray}{Page \thepage\ of \pageref{LastPage}}}
+
+\AtEndPreamble{\hypersetup{pdftitle={CV -- Nicolas Reigl}}}
+\name{Nicolas}{Reigl}
+%\title{Resumé title}
+\address{Tehnika 9/10}{10149}{Estonia}  \phone{+372 56 84 18 60}
+\email{nicolas.reigl@gmail.com}
+\homepage{nreigl.github.io}
+% \social[linkedin]{None}
+% \social[twitter]{NicolasReigl}
+\social[github]{nreigl}
+% Indicate when the pdf was generated
+% \extrainfo{\small Generated on \today}
+%\photo[64pt][0.4pt]{picture}
+% \quote{Generated on \today}
+
+
+\AtBeginDocument{\hypersetup{colorlinks}}
+
+\begin{document}
+\hypersetup{linkcolor=color0,urlcolor=color1}
+\makecvtitle
+
+\vspace{-7mm}
+\section{Education}
+\begin{itemize}\item Ph.D. candidate Economics\hfill 2015-present (expected 2019) \\
+     Tallinn University of Technology (TTÜ) \\
+   Advisors - Lenno Uusküla, Ph.D and Prof. Karsten Staehr, Ph.D
+\item M.A. Finance and Economics\hfill 2013-2015 \\
+     Tallinn University of Technology (TTÜ) \\
+\end{itemize}
+
+
+\section{Industry Experience}
+  \begin{itemize}
+      \item Junior Economist, Bank of Estonia\hfill Oct 2015 -- present \\
+        Research Division
+        \iffalse
+        \begin{itemize}
+\end{itemize}
+        \fi
+      \item Research Internship, Bank of Estonia\hfill Nov 2014 -- Jan 2015 \\
+        Research Division
+        \iffalse
+        \begin{itemize}
+\end{itemize}
+        \fi
+  \end{itemize}
+
+
+\section{Conferences and Professional Meetings}
+2017
+\begin{itemize}
+  \item 9th Nordic Econometric Meeting, Tartu/ Estonia
+\end{itemize}2016
+\begin{itemize}
+  \item Unconventional Monetary Policy Workshop, European Central Bank -- Frankfurt/ Germany
+\end{itemize}
+
+
+\section{Invited Presentations at Conferences and Workshops}
+2017
+\begin{itemize}
+  \item N. Reigl . Banking sector concentration, competition, and financial stability -- The case of the Baltic countries \\
+  Baltic Central Bank Meeting, Vilnius/ Lithuania
+\end{itemize}2016
+\begin{itemize}
+  \item N. Reigl, D. Kulikov. Macroeconomic Dynamics of Firms' Mark-ups and Profitability in Estonia 1995-2015 \\
+  Estonian Economic Society Meeting, Pärnu/ Estonia
+\end{itemize}
+\begin{itemize}
+  \item N. Reigl. Forecasting the Estonian Inflation Rate with Factor Models \\
+  8th International Conference "Economic Challenges in Enlarged Europe", Tallinn/ Estonia
+\end{itemize}
+
+
+\section{Selected Coursework}
+\cvlistitem{
+    Barcelona CREI Macroeconomics Summer School \hfill 2016 \\
+    An Introduction to the New Keynesian Framework and its Monetary Policy Applications \\
+    Instructor: Jordi Galí
+}
+\cvlistitem{
+    Barcelona CREI Macroeconomics Summer School \hfill 2016 \\
+    Economic Growth and Inequality \\
+    Instructor: Gino Gancia
+}
+
+
+\section{Honors \& Awards}
+\begin{itemize}
+    \item TTÜ/TSEBA Masters Thesis competition \hfill May 2016
+      \begin{itemize}
+      \item Best Masters' Thesis in Economics
+      \end{itemize}
+    \item Estonian Nationl Student Research Competition \hfill December 2015
+      \begin{itemize}
+      \item 2nd place best research paper in the area of social sciences on the masters' level
+      \end{itemize}
+\end{itemize}
+
+
+\section{Skills}
+\begin{tabular}{p{1.5in}p{5in}}
+    Languages & Bash, Python \\
+    Scientific Computing & R, MATLAB, Julia, Eviews, Stata, NumPy, Pandas, SciPy \\
+    Systems & Linux (Arch), OSX \\
+    Markup & LaTex, markdown, reStructuredText \\
+    DevOps & git/GitHub, Travis CI, pandoc \\
+\end{tabular}
+
+
+\section{Languages}
+\begin{tabular}{p{1.5in}p{5in}}
+    German & Native \\
+    English & Business fluent \\
+    Spanish & Basic \\
+    French & Basic \\
+\end{tabular}
+
+
+\section{Refereeing}
+\begin{tabular}{p{1.5in}p{5in}}
+    Panoeconomicus \\
+\end{tabular}
+
+
+
+
+\end{document}
