@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>nreigl.github.io</title><link href="http://localhost:8000/" rel="alternate"></link><link href="http://localhost:8000/feeds/all.atom.xml" rel="self"></link><id>http://localhost:8000/</id><updated>2017-08-29T16:59:53Z</updated></feed>
+<<<<<<< HEAD:feeds/all.atom.xml
+<feed xmlns="http://www.w3.org/2005/Atom"><title>nreigl.github.io</title><link href="http://localhost:8000/" rel="alternate"></link><link href="http://localhost:8000/feeds/all.atom.xml" rel="self"></link><id>http://localhost:8000/</id><updated>2017-08-11T12:10:52Z</updated></feed>
+=======
+<feed xmlns="http://www.w3.org/2005/Atom"><title>nreigl.github.io</title><link href="http://localhost:8000/" rel="alternate"></link><link href="http://localhost:8000/feeds/all.atom.xml" rel="self"></link><id>http://localhost:8000/</id><updated>2017-08-29T16:45:59Z</updated></feed>
+>>>>>>> development:output/feeds/all.atom.xml
