@@ -1,9 +1,3 @@
-[submodule "resume"]
-	path = resume
-	url = https://github.com/wtbarnes/resume.git
-[submodule "cv"]
-	path = cv
-	url = https://github.com/bamos/cv.git
 [submodule "themes"]
 	path = themes
 	url = https://github.com/getpelican/pelican-themes.git

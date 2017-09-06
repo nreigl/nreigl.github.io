@@ -1,0 +1,11 @@
+~< extends "section.tex" >~
+
+~< block body >~
+~<- for conference in items ->~
+<< conference.year >>
+\begin{itemize}
+  \item << conference.conference >>, << conference.place >>
+\end{itemize}
+~<- endfor ->~
+~< endblock body >~
+

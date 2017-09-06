@@ -1,0 +1,12 @@
+# Makefile to build PDF and Markdown cv from YAML.
+#
+# Brandon Amos <http://bamos.github.io> and
+# Ellis Michael <http://ellismichael.com>
+# Nicolas Reigl <http://nreigl.github.io>
+# work in progress - do not use
+
+python cv/generate.py cv.yaml --md_out_file content/pages/cv.md --pdf_link {filename}/files/cv.pdf
+build_cvtex -output-directory=resume/output/ -aux-directory=resume/output/ resume/output/cv.tex
+mkdir content/files
+cp resume/output/cv.pdf content/files/
+
