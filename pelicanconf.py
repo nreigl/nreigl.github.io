@@ -63,7 +63,7 @@ SITEMAP = {
 }
 
 # Plugin-related settings
-PLUGIN_PATHS = ['/Users/nicolasreigl/nreigl/plugins']
+PLUGIN_PATHS = ['/Users/nicolasreigl/nreigl/pelican-plugins']
 IPYNB_USE_META_SUMMARY = True
 PLUGINS = ['feed_summary',
              # 'ipynb',
@@ -72,7 +72,7 @@ PLUGINS = ['feed_summary',
              'share_post',
              'sitemap',
              # 'pandoc_reader',
-             'rmd_pandoc_reader',
+             # 'rmd_pandoc_reader',
              'rmd_reader',
              #'pelican-btex',
              'i18n_subsites',

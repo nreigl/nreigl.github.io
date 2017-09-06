@@ -13,6 +13,16 @@ I am Ph.D. student in economics at [Tallinn University of Technology](http://www
 
 
 -----
+
+## <i class="fa fa-chevron-right"></i> News
+<table class="table table-hover">
+<tr>
+  <td class='col-md-3'>August 2017</td>
+  <td>New [working paper]({filename}/pages/research.md) with <a href="https://sites.google.com/site/ylucotte/home">Yannick Lucotte </a> and  <a href="http://jccuestas.me.uk/"> Juan Carlos Cuestas </a> is out. Comments are welcome!</td>
+</tr>
+</table>
+
+-----
 **Everything on this site reflects my personal views only**.
 
 <!--
