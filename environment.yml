@@ -1,6 +1,0 @@
-name: webpage
-channels: !!python/tuple
-- conda-forge
-- defaults
-prefix: /Users/nicolasreigl/miniconda3/envs/webpage
-
