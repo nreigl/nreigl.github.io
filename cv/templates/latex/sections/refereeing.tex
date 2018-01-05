@@ -1,0 +1,9 @@
+~< extends "section.tex" >~
+
+~< block body >~
+\begin{tabular}{p{1.5in}p{5in}}
+  ~< for journal in items >~
+    << journal.title >> \\
+  ~< endfor >~
+\end{tabular}
+~< endblock body >~
