@@ -1,0 +1,24 @@
+~< extends "section.tex" >~
+
+~< block body >~
+
+2017
+~<- for year in items ->~
+~<- if year.year == 2017 ->~
+\begin{itemize}
+  \item << year.conference >>, << year.place >>
+\end{itemize}
+~<- endif ->~
+~<- endfor ->~
+
+2016
+~<- for year in items ->~
+~<- if year.year == 2016 ->~
+\begin{itemize}
+  \item << year.conference >>, << year.place >>
+\end{itemize}
+~<- endif ->~
+~<- endfor ->~
+
+~< endblock body >~
+

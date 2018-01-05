@@ -22,21 +22,20 @@
 
 \frenchspacing
 
-\usepackage[backend=biber,style=ieee,url=false,defernumbers=true]{biblatex}
-\addbibresource{../publications/combined.bib}
+\usepackage[backend=biber,style=ieee,defernumbers=true]{biblatex}
 
 % Make the author's name bold in publications.
- %\DeclareNameFormat{author}{%
-  %\ifthenelse{\equal{#1}{Reigl}}%
-    %{\textbf{\ifblank{#4}{}{#4\space}#1}}%
-    %{\ifblank{#4}{}{#4\space}#1}%
-  %\ifthenelse{\value{listcount}=1 \AND \value{liststop}=2}%
-    %{\space and\space}
-    %{\ifthenelse{\value{listcount}<\value{liststop}}%
-      %{\addcomma\space}
-      %{}
-    %}
- %}
+% \DeclareNameFormat{author}{%
+%  \ifthenelse{\equal{#1}{Reigl}}%
+%    {\textbf{\ifblank{#4}{}{#4\space}#1}}%
+%    {\ifblank{#4}{}{#4\space}#1}%
+%  \ifthenelse{\value{listcount}=1 \AND \value{liststop}=2}%
+%    {\space and\space}
+%    {\ifthenelse{\value{listcount}<\value{liststop}}%
+%      {\addcomma\space}
+%      {}
+%    }
+% }
 
 \usepackage{lastpage}
 \cfoot{\addressfont\textcolor{gray}{Page \thepage\ of \pageref{LastPage}}}
@@ -44,7 +43,7 @@
 \AtEndPreamble{\hypersetup{pdftitle={CV -- Nicolas Reigl}}}
 \name{Nicolas}{Reigl}
 %\title{Resumé title}
-\address{Tatari 29/9}{10116 Tallinn}{Estonia}  \phone{+372 56 84 18 60}
+\address{Tehnika 9/10}{10149}{Estonia}  \phone{+372 56 84 18 60}
 \email{nicolas.reigl@gmail.com}
 \homepage{nreigl.github.io}
 % \social[linkedin]{None}
@@ -72,21 +71,6 @@
 \end{itemize}
 
 
-\section{Selected Publications}
-\vspace{-7.5mm}
-\hfill
-Google Scholar ID:
-\href{https://scholar.google.com/citations?user=PtpYqKoAAAAJ}{PtpYqKoAAAAJ}
-\vspace{2mm}
-
-\renewcommand*{\bibfont}{\small}
-
-\begin{refsection}
-\nocite{*}
-\printbibliography[heading=none,prefixnumbers=,type=article]
-\end{refsection}
-
-
 \section{Industry Experience}
   \begin{itemize}
       \item Junior Economist, Bank of Estonia\hfill Oct 2015 -- present \\
@@ -105,33 +89,32 @@ Google Scholar ID:
 
 
 \section{Conferences and Professional Meetings}
-
-2017\begin{itemize}
-  \item ESCB Research Cluster on Monetary Economics, Banco de España -- Madrid/ Spain
-\end{itemize}\begin{itemize}
+2017
+\begin{itemize}
   \item 9th Nordic Econometric Meeting, Tartu/ Estonia
-\end{itemize}2016\begin{itemize}
+\end{itemize}2016
+\begin{itemize}
   \item Unconventional Monetary Policy Workshop, European Central Bank -- Frankfurt/ Germany
 \end{itemize}
 
 
 \section{Invited Presentations at Conferences and Workshops}
-
-2017\begin{itemize}
+2017
+\begin{itemize}
   \item N. Reigl . Banking sector concentration, competition, and financial stability -- The case of the Baltic countries \\
   Baltic Central Bank Meeting, Vilnius/ Lithuania
-\end{itemize}2016\begin{itemize}
-  \item N. Reigl . Forecasting the Estonian Inflation Rate with Factor Models \\
+\end{itemize}2016
+\begin{itemize}
+  \item N. Reigl, D. Kulikov. Macroeconomic Dynamics of Firms' Mark-ups and Profitability in Estonia 1995-2015 \\
+  Estonian Economic Society Meeting, Pärnu/ Estonia
+\end{itemize}
+\begin{itemize}
+  \item N. Reigl. Forecasting the Estonian Inflation Rate with Factor Models \\
   8th International Conference "Economic Challenges in Enlarged Europe", Tallinn/ Estonia
 \end{itemize}
 
 
 \section{Selected Coursework}
-\cvlistitem{
-    Bank of Italy's Scuola di Automazione per Dirigenti Bancari (SADiBa) \hfill 2017 \\
-    PhD Course - Bayesian Methods in Economics and Finance \\
-    Instructor: Gaetano Carmeci, Roberto Casarin, Matteo Ciccarelli, Stefano Peluso
-}
 \cvlistitem{
     Barcelona CREI Macroeconomics Summer School \hfill 2016 \\
     An Introduction to the New Keynesian Framework and its Monetary Policy Applications \\
