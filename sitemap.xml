@@ -4,74 +4,50 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://localhost:8000/</loc>
-<<<<<<< HEAD:sitemap.xml
-<lastmod>2017-08-11T12:10:52-00:00</lastmod>
-=======
-<lastmod>2017-08-29T16:45:59-00:00</lastmod>
->>>>>>> development:output/sitemap.xml
+<loc>/</loc>
+<lastmod>2018-05-04T16:07:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/archives.html</loc>
-<<<<<<< HEAD:sitemap.xml
-<lastmod>2017-08-11T12:10:52-00:00</lastmod>
-=======
-<lastmod>2017-08-29T16:45:59-00:00</lastmod>
->>>>>>> development:output/sitemap.xml
+<loc>/archives.html</loc>
+<lastmod>2018-05-04T16:07:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tags.html</loc>
-<<<<<<< HEAD:sitemap.xml
-<lastmod>2017-08-11T12:10:52-00:00</lastmod>
-=======
-<lastmod>2017-08-29T16:45:59-00:00</lastmod>
->>>>>>> development:output/sitemap.xml
+<loc>/tags.html</loc>
+<lastmod>2018-05-04T16:07:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/categories.html</loc>
-<<<<<<< HEAD:sitemap.xml
-<lastmod>2017-08-11T12:10:52-00:00</lastmod>
-=======
-<lastmod>2017-08-29T16:45:59-00:00</lastmod>
->>>>>>> development:output/sitemap.xml
+<loc>/categories.html</loc>
+<lastmod>2018-05-04T16:07:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/research.html</loc>
+<loc>/research.html</loc>
 <lastmod>2017-06-11T10:58:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/cv.html</loc>
-<<<<<<< HEAD:sitemap.xml
-<lastmod>2017-08-11T12:10:52-00:00</lastmod>
-=======
-<lastmod>2017-08-29T16:45:59-00:00</lastmod>
->>>>>>> development:output/sitemap.xml
+<loc>/cv.html</loc>
+<lastmod>2018-05-04T16:07:04-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/teaching.html</loc>
-<<<<<<< HEAD:sitemap.xml
-<lastmod>2017-08-11T12:10:52-00:00</lastmod>
-=======
-<lastmod>2017-08-29T16:45:59-00:00</lastmod>
->>>>>>> development:output/sitemap.xml
+<loc>/teaching.html</loc>
+<lastmod>2018-05-04T16:07:04-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
