@@ -4,50 +4,50 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://localhost:8000/</loc>
-<lastmod>2018-02-07T20:00:48-00:00</lastmod>
+<loc>/</loc>
+<lastmod>2018-05-04T16:07:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/archives.html</loc>
-<lastmod>2018-02-07T20:00:48-00:00</lastmod>
+<loc>/archives.html</loc>
+<lastmod>2018-05-04T16:07:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/tags.html</loc>
-<lastmod>2018-02-07T20:00:48-00:00</lastmod>
+<loc>/tags.html</loc>
+<lastmod>2018-05-04T16:07:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/categories.html</loc>
-<lastmod>2018-02-07T20:00:48-00:00</lastmod>
+<loc>/categories.html</loc>
+<lastmod>2018-05-04T16:07:04-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/research.html</loc>
+<loc>/research.html</loc>
 <lastmod>2017-06-11T10:58:00+03:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/cv.html</loc>
-<lastmod>2018-02-07T20:00:48-00:00</lastmod>
+<loc>/cv.html</loc>
+<lastmod>2018-05-04T16:07:04-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://localhost:8000/teaching.html</loc>
-<lastmod>2018-02-07T20:00:48-00:00</lastmod>
+<loc>/teaching.html</loc>
+<lastmod>2018-05-04T16:07:04-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
