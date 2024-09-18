@@ -8,7 +8,7 @@ date: '2021-01-01'
 publishDate: '2024-09-18T13:19:41.287911Z'
 publication_types:
 - article-journal
-publication: '*Emerald Publishing Limited*'
+publication: 'Journal of Financial Economic Policy'
 doi: 10.1108/JFEP-04-2019-0070
 abstract: 'Purpose This paper aims to complement to standard Basel countercyclical
   capital buffer framework by suggesting additional measures for credit gaps that

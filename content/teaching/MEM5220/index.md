@@ -5,6 +5,7 @@ date: 2023-09-01
 type: docs
 math: false
 tags:
+  - Teaching
   - Econometrics
 image:
   caption: 'Embed rich media such as videos and LaTeX math'

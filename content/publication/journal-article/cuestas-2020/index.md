@@ -7,6 +7,7 @@ authors:
 - Nicolas Reigl
 date: '2020-01-01'
 publishDate: '2024-09-18T13:19:41.252729Z'
+publication: "Post-Communist Economies"
 publication_types:
 - article-journal
 doi: 10/gf6tnj

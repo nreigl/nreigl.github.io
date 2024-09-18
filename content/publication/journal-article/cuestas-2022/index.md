@@ -7,6 +7,7 @@ authors:
 - Nicolas Reigl
 date: '2022-01-01'
 publishDate: '2024-09-18T13:19:41.257025Z'
+doi: https://doi.org/10.1002/ijfe.2183
 publication_types:
 - article-journal
 publication: "International Journal of Finance and Economics"
