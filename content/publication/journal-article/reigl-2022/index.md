@@ -3,6 +3,8 @@ title: Noise Shocks and Business Cycle Fluctuations in Three Major European Econ
 authors:
 - Nicolas Reigl
 date: '2022-07-21'
+# Publication name and optional abbreviated publication name.
+publication: "Empirical Economics"
 publishDate: '2024-09-18T13:19:41.292229Z'
 publication_types:
 - article-journal

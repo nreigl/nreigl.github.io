@@ -1,0 +1,13 @@
+# Fdb version 4
+["pdflatex"] 1726668800 "/Users/nicolasreigl/Documents/nreigl/publications.bib" "publications.pdf" "publications" 1726668801 2
+  "/Users/nicolasreigl/Documents/nreigl/publications.bib" 1726668800 1638 baea349680de9b0199d87b03e425a5fe ""
+  "/usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf" 1681165822 40967 d940221f8762fd5848760382d97d1226 ""
+  "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1686668070 7903646 e444f7aa1c7ccd2342778c725eeeb890 ""
+  "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
+  "publications.aux" 1726668800 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "publications.bib" 1726668800 1638 baea349680de9b0199d87b03e425a5fe ""
+  (generated)
+  "publications.aux"
+  "publications.log"
+  "publications.pdf"
+  (rewritten before read)
