@@ -1,6 +1,0 @@
-PWD /Users/nicolasreigl/Documents/nreigl
-INPUT /usr/local/texlive/2023/texmf.cnf
-INPUT /usr/local/texlive/2023/texmf-dist/web2c/texmf.cnf
-INPUT /usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/nicolasreigl/Documents/nreigl/publications.bib
-OUTPUT publications.log
