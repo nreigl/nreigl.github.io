@@ -1,6 +1,6 @@
 ---
 # Display name
-title: PhD 
+title: Nicolas Reigl, PhD 
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
@@ -29,7 +29,7 @@ organizations:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-# profiles:
+profiles:
 #   - icon: at-symbol
 #     url: 'mailto:your-email@example.com'
 #     label: E-mail Me
@@ -37,23 +37,23 @@ organizations:
 #     url: https://twitter.com/GetResearchDev
 #   - icon: brands/instagram
 #     url: https://www.instagram.com/
-#   - icon: brands/github
-#     url: https://github.com/gcushen
+   - icon: brands/github
+     url: https://github.com/nreigl
 #   - icon: brands/linkedin
 #     url: https://www.linkedin.com/
-#   - icon: academicons/google-scholar
-#     url: https://scholar.google.com/
-#   - icon: academicons/orcid
-#     url: https://orcid.org/
+   - icon: academicons/google-scholar
+     url: https://scholar.google.com/citations?user=PtpYqKoAAAAJ&hl=en
+   - icon: academicons/orcid
+     url: https://orcid.org/0000-0001-6471-2339
 
-# interests:
-#   - Macroeconomics 
-#   - Applied Econometrics 
-#   - Machine Learning
+ interests:
+   - Macroeconomics 
+   - Applied Econometrics 
+   - Machine Learning
 
-# education:
-#   - area: PhD Economics 
-#     institution: Tallinn University of Technology
+ education:
+   - area: PhD Economics 
+     institution: Tallinn University of Technology
 #     date_start: 2016-09-01
 #     date_end: 2023-03-01
 #     summary: |
@@ -183,5 +183,5 @@ organizations:
 
 ## About Me
 
-Nicolas Reigl is an economist in the research devision at [Bank of Estonia](https://www.eestipank.ee/en). His research interest include monetary economics, international macroeconomics and macro labour economics. He also teaches selected courses in in economics at [Tallinn University of Technology](http://www.taltech.ee/en/)
+Nicolas Reigl is an economist in the research devision at [Bank of Estonia](https://www.eestipank.ee/en). His research interest include monetary economics, international macroeconomics and macro labour economics. He also teaches selected courses in economics at [Tallinn University of Technology](http://www.taltech.ee/en/)
 
