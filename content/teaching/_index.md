@@ -14,6 +14,7 @@ sections:
     id: teaching
     content:
       title: Teaching
+      text: Past or currently taught courses
       filters:
         folders:
           - teaching
