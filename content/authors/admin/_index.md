@@ -3,7 +3,7 @@
 title: Nicolas Reigl, PhD 
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Name pronunciation (optional)
 name_pronunciation: 
@@ -80,4 +80,4 @@ education:
 
 ## About Me
 
-Nicolas Reigl is an economist in the research division at [Eesti Pank](https://www.eestipank.ee/en). His research interests include monetary economics, international macroeconomics, and macro labour economics. He is teaching selected courses in economics at [Tallinn University of Technology](http://www.taltech.ee/en/). 
+Nicolas Reigl is an economist in the research division at [Eesti Pank](https://www.eestipank.ee/en). His research interests include monetary economics, international macroeconomics, and macro labour economics. He is teaching selected courses in economics at [Tallinn University of Technology](http://www.taltech.ee/en/).

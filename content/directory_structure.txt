@@ -1,0 +1,37 @@
+.
+├── authors
+│   └── admin
+│       └── _index_files
+│           └── libs
+│               ├── bootstrap
+│               ├── clipboard
+│               └── quarto-html
+├── content
+│   └── publication
+│       └── work-in-progress
+├── event
+│   └── example
+├── post
+│   ├── data-visualization
+│   ├── get-started
+│   ├── project-management
+│   ├── second-brain
+│   └── teach-courses
+├── project
+│   ├── pandas
+│   ├── pytorch
+│   └── scikit
+├── publication
+│   └── journal-article
+│       ├── cuestas-2020
+│       ├── cuestas-2022
+│       ├── kirpson-2023
+│       ├── reigl-2017
+│       ├── reigl-2020
+│       ├── reigl-2021
+│       └── reigl-2022
+└── teaching
+    ├── MEM5220
+    └── supervision
+
+35 directories
