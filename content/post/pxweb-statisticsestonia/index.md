@@ -952,13 +952,13 @@ p1 <- ggplot(data = temp_g, aes(x = period, y = growth_rate, color = `economic a
     legend.spacing.y = unit(0.4, 'cm'),
     axis.text = element_text(size = 14),
     axis.title = element_text(size = 14),
-    plot.caption = element_text(size = 10, hjust = 0.5) 
+    plot.caption = element_text(size = 10, hjust = 0.5)
   )
 
 p1
 ```
 
-<img src="blogpost_f1.png" alt="Growth Rates of Imports and Exports of Services" style="max-width: 100%; height: 100%;">
+<img src="images/blogpost_f1.png" alt="Growth Rates of Imports and Exports of Services" style="max-width: 99%; height: 200%;">
 
 ```r
 sessionInfo()
