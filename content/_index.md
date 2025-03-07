@@ -72,6 +72,15 @@ sections:
           - work-in-progress
     design:
       view: citation
+  - block: collection
+    content:
+      title: "Latest Blog Posts"
+      text: "Recent articles and tutorials."
+      filters:
+        folders:
+          - post
+    design:
+      view: card
   # - block: collection
   #   id: talks
   #   content:
